@@ -1,2 +1,2 @@
 # Vezba1
-izmena
+izmena 2
